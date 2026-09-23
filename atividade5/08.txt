@@ -1,0 +1,29 @@
+Questão 8
+
+Notebook:
+- Preço: R$ 2975.00
+- Preço original: R$ 3500.00, exibido riscado por existir desconto de 15%
+- Borda: #ddd
+- Cor do preço: #4caf50
+- Situação: ✔ EM ESTOQUE
+- Estoque: 8 unidades
+- Fundo: branco
+
+Smartphone:
+- Preço: R$ 2000.00
+- Não aparece preço original riscado, pois não há desconto
+- Borda: #ddd
+- Cor do preço: #333
+- Situação: ✔ EM ESTOQUE
+- Estoque: 25 unidades
+- Fundo: branco
+
+Fone de Ouvido:
+- Preço: R$ 135.00
+- Preço original: R$ 150.00, exibido riscado por existir desconto de 10%
+- Borda: #ff9800
+- Cor do preço: #4caf50
+- Situação: ✖ SEM ESTOQUE
+- Estoque: 0 unidades
+- Fundo: #ffccd2
+
